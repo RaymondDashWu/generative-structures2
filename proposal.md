@@ -1,0 +1,1 @@
+With this project I will be generating 3d structures to put on the blockchain. I liked the idea of being able to not only A) provably own something on the blockchain but B) being able to 3d print that exact object that you own. These structures will be ERC721 as each of them will be unique.
